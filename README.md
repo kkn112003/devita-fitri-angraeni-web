@@ -1,1 +1,258 @@
-# devita-fitri-angraeni-web
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Devita Fitri Angraeni</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="web 2/wa-removebg-preview.png" type="image/x-icon">
+  </head>
+  <body>
+    <nav>
+      <div class="layar-dalam">
+        <div class="logo">
+          <a href=""><img src="web 2/Logo-White.png" class="putih" /></a>
+          <a href=""><img src="web 2/Logo -Black.png" class="hitam" /></a>
+        </div>
+        <div class="menu">
+          <a href="#" class="tombol-menu">
+            <span class="garis"></span>
+            <span class="garis"></span>
+            <span class="garis"></span>
+          </a>
+          <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#aboutus">About Us</a></li>
+            <li><a href="#support">Date</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="#team">Quote</a></li>
+            <li><a href="#blog">Favorite</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="layar-penuh">
+      <header id="home">
+        <div class="overlay"></div>
+        <video autoplay muted loop>
+          <source src="web 2/video1.mp4" type="video/mp4" />
+        </video>
+        <div class="intro">
+          <h3>Devita Fitri Angraeni</h3>
+          <p>
+            "Kamu tidak akan bisa menyelesaikan sesuatu jika kamu takut gagal"
+          </p>
+          <p>
+            <a href="" class="tombol">MORE INFO</a>
+          </p>
+        </div>
+      </header>
+      <main>
+        <section id="aboutus">
+          <div class="layar-dalam">
+            <h3>About Us</h3>
+            <p class="ringkasan">
+              haiii, perkenalkan nama dia Devita Fitri Angraeni G nya satu kalo G nya dua dia bisa bete kesel dan marah wkwk. Btw dia adalah sayangku, cintaku, manisku, rumahku, obatku, lucuku, duniaku, semestaku, segalanya bagiku!. Oh iya ayang aku lahir di cirebon pada tanggal 12 Desember 2003 dia masih muda tapi udah jadi katingnya aku wkwk
+            </p>
+            <div class="konten-isi">
+              <p>
+              thank u for being in my life, i love u so so sooooo much. kalo misalnya ada alat ukur kebahagiaan mungkin udah ga ke ukur sebahagia apa aku dan mungkin aku gabisa cerita banyak sebahagia apa, tapi dengan ada nya kata kata ini itu udah nyeritain semuaaa nya. kamu yang awalnya emang bukan siapa siapa aku tapi semenjak kamu dateng aku jadi ngerasa punya support system terbaik yang dulu ga pernah aku temuin di perempuan manapun, kamu selalu dukung apa aja yang aku lakuin, kamu selalu jadi alesan aku kenapa setiap hari aku bahagia, aku gatau mau bilang makasi dengan cara gimana lagi, dengan ada nya kamu hidup aku yang dulu lebih banyak sedih nya sekarang aku lebih banyak seneng nyaaaa. fase people come and go itu beneran ada dan aku juga gabisa maksa kamu untuk terus stay sama aku di sini, kalo kamu udah cape sama sikap aku dan udah nemu orang baru coba kamu deketin dia bcs u deserve better than me. but don't u ever forget that i used to love you so much.❤️❤️❤️❤️❤️❤️  
+              </p>
+            </div>
+          </div>
+        </section>
+        <section class="abuabu" id="support">
+          <div class="layar-dalam support">
+            <div>
+              <img src="web 2/8.webp" />
+              <h6>Transformers Date</h6>
+              <p>
+                11/06/2023 Transformers Date. First time aku jemput devita kerumahnya dan di intrograsi sama aa wkwk, tapi disitu aku merasa senang karena respon dan pandangan aa welcome dan positif.
+              </p>
+            </div>
+            <div>
+              <img src="web 2/1.png" />
+              <h6>Golf Date</h6>
+              <p>
+                14/06/2023 lapangan golf Ciperna dan tepat dihari itu kami menjalani status hubungan, bisa dibilang hari itu juga merupakan moment dimana aku merasa happy. 
+              </p>
+            </div>
+            <div>
+              <img src="web 2/3.png" />
+              <h6>Gcm Date</h6>
+              <p>
+                22/06/2023 Gcm Date, hari dimana aku diperlakukan layaknya anak kecil wkwk
+              </p>
+            </div>
+          </div>
+        </section>
+        <section id="gallery">
+          <div><img src="web 2/16.webp" /></div>
+          <div><img src="web 2/18.webp" /></div>
+          <div><img src="web 2/22.jpg" /></div>
+          <div><img src="web 2/33.webp" /></div>
+          <div><img src="web 2/34.webp" /></div>
+          <div><img src="web 2/37.webp" /></div>
+          <div><img src="web 2/35.webp" /></div>
+          <div><img src="web 2/40.jpg" /></div>
+          <div><img src="web 2/Z.jpg" /></div>
+        </section>
+        <section id="gallery">
+          <div><img src="web 2/36.webp" /></div>
+          <div><img src="web 2/38.webp" /></div>
+          <div><img src="web 2/Q.jpg" /></div>
+          <div><img src="web 2/39.webp" /></div>
+          <div><img src="web 2/aa.jpg" /></div>
+          <div><img src="web 2/A.webp" /></div>
+          <div><img src="web 2/C.webp" /></div>
+          <div><img src="web 2/D.webp" /></div>
+        </section>
+        <section id="gallery">
+          <div><img src="web 2/2.png" /></div>
+          <div><img src="web 2/4.jpg" /></div>
+          <div><img src="web 2/5.jpg" /></div>
+          <div><img src="web 2/29.jpg" /></div>
+          <div><img src="web 2/14.webp" /></div>
+          <div><img src="web 2/15.jpg" /></div>
+          <div><img src="web 2/20.jpg" /></div>
+          <div><img src="web 2/24.webp" /></div>
+        </section>
+        <section id="gallery">
+          <div><img src="web 2/12.jpg" /></div>
+          <div><img src="web 2/23.jpg" /></div>
+          <div><img src="web 2/25.webp" /></div>
+          <div><img src="web 2/26.webp" /></div>
+          <div><img src="web 2/27.webp" /></div>
+          <div><img src="web 2/30.jpg" /></div>
+          <div><img src="web 2/31.jpg" /></div>
+          <div><img src="web 2/32.jpg" /></div>
+        </section>
+        <section id="gallery">
+          <div><img src="web 2/E.webp" /></div>
+          <div><img src="web 2/F.webp" /></div>
+          <div><img src="web 2/G.webp" /></div>
+          <div><img src="web 2/H.webp" /></div>
+          <div><img src="web 2/I.webp" /></div>
+          <div><img src="web 2/J.webp" /></div>
+          <div><img src="web 2/K.webp" /></div>
+          <div><img src="web 2/L.webp" /></div>
+          <div><img src="web 2/R.jpg" /></div>
+        </section>
+        <section id="gallery">
+          <div><img src="web 2/M.webp" /></div>
+          <div><img src="web 2/N.webp" /></div>
+          <div><img src="web 2/O.webp" /></div>
+          <div><img src="web 2/P.webp" /></div>
+          <div><img src="web 2/S.jpg" /></div>
+          <div><img src="web 2/Picsart_23-06-01_18-00-45-869.jpg" /></div>
+          <div><img src="web 2/P.webp" /></div>
+          <div><img src="web 2/X.jpg" /></div>
+          <div><img src="web 2/Q.jpg" /></div>
+        </section>
+        <section class="quote">
+          <div class="layar-dalam">
+            <p>Jogja terbuat dari rindu, pulang dan angkringan.</p>
+          </div>
+        </section>
+        <section id="team">
+          <div class="layar-dalam">
+            <h3>Quote</h3>
+            <p class="ringkasan">
+              Quote dari devita yang memotivasi saya dalam menjalani hari-harinya
+            </p>
+            <div class="tim">
+              <div>
+                <img src="web 2/6.jpg" />
+                <h6>Impian</h6>
+                <span>Dreams come true to those who trully want them.</span>
+              </div>
+              <div>
+                <img src="web 2/17.webp" />
+                <h6>Keputusan</h6>
+                <span>Aku tidak menyesal atas apa yang kupilih, biarkanlah itu mengalir</span>
+              </div>
+              <div>
+                <img src="web 2/11.webp" />
+                <h6>Pantang Menyerah</h6>
+                <span>Kita semua selalu berusaha untuk memperbaiki diri, jangan pernah berpikir untuk menyerah.</span>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="abuabu" id="blog">
+          <div class="layar-dalam">
+            <h3>Favorite Devita</h3>
+            <p class="ringkasan">
+              Hal - Hal Favorite Devita yang membuat mood nya baik
+            </p>
+            <div class="blog">
+              <div class="area">
+                <div
+                  class="gambar"
+                  style="background-image: url('web 2/9.webp')"
+                ></div>
+                <div class="text">
+                  <article>
+                    <h4><a href="#">Resah Jadi Luka - Daun Jatuh</a></h4>
+                    <p>
+                      Menceritakan tentang ungkapan rasa syukur seseorang yang bertemu dengan sosok yang bisa membuatnya tentram dan damai.
+                    </p>
+                  </article>
+                </div>
+              </div>
+              <div class="area">
+                <div
+                  class="gambar"
+                  style="background-image: url('web 2/13.jpg')"
+                ></div>
+                <div class="text">
+                  <article>
+                    <h4><a href="#">Senja</a></h4>
+                    <p>
+                      Senja memiliki dua makna, yakni keindahan yang berarti kebahagiaan, juga kesedihan di kala perpisahan.
+                    </p>
+                  </article>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+      <footer id="contact">
+        <div class="layar-dalam">
+          <div>
+            <h5>Gdrive Link</h5>
+            "Terkadang kamu tidak akan pernah tahu nilai sebenarnya dari sebuah momen sampai itu menjadi sebuah kenangan." - Theodor Seuss Geisel
+            <a href="https://drive.google.com/drive/folders/1pqNOFQ06_yfSPZhRVeLVjuLsRBlZgiKq">KLIK HERE LINK GDRIVE</a>
+          </div>
+          <div>
+            <h5>Instagram Devita</h5>
+            ❤️❤️❤️❤️❤️❤️❤️❤️❤️
+            <a href="https://www.instagram.com/devitafitriaa_">KLIK HERE INSTAGRAM</a>
+          </div>
+          <div>
+            <h5>SPOTIFY</h5>
+            🎧 🎷 🎸 ♬ 🔊 🎵 🎙️
+            <a href="https://open.spotify.com/playlist/3JHFlW6nTbwr5FlzQAXiwO?si=flZos1HqStiSmCd_04yhOQ">PLAYLIST FROM AYANG</a>
+          </div>
+          <div>
+            <h5>DISCORD</h5>
+            🌹🎮🕹️🎲🎰♣️♟️🌎🕗🌘
+            <a href="https//discord.gg/A2S64aJr">JOIN WITH AYANG</a>
+          </div>
+        </div>
+        <div class="layar-dalam">
+          <div class="copyright">&copy; 2023 Kukun Kurniawan</div>
+        </div>
+      </footer>
+    </div>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"
+    ></script>
+    <script src="javascript.js"></script>
+  </body>
+</html>
